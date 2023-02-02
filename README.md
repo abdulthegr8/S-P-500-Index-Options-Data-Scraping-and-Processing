@@ -1,5 +1,6 @@
 # S-P-500-Index-Options-Data-Scraping-and-Processing
 NOTE: make sure your chromedriver is update and it matches your Google Chrome version!
+
 Project Overview:
 In this project, I used Selenium WebDriver, Pandas, and openpyxl to scrape S&P 500 Index options data from the Barchart website. The purpose of this project was to retrieve the data on the put and call volume, open interest, and average at-the-money volatility for different expiration dates. The data was then processed, cleaned, and saved to an Excel file.
 
